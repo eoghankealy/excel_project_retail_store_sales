@@ -63,13 +63,13 @@ The dataset contains retail transaction data including:
 ## 📊 Dashboard Insights
 ![Dashboard Preview](Dashboard/dashboard_screenshot.png)
 
-- Butcher: Highest earning category but trending down
+- Butchers: Highest earning category but trending down
 
-- Beverage: Growing steadily 
+- Beverages: Growing steadily 
 
-- In general the revenue is relatively equally  spread through out the Categories,  Items and time periods
+- In general the revenue is relatively equally  spread throughout the Categories,  Items and time periods
 
-- Sales are also equally spread throught the different payment options and whether the sale is online or instore 
+- Sales are also equally spread throughout the different payment options and whether the sale is online or instore 
 
 ## 💡 Key Takeaways
 
