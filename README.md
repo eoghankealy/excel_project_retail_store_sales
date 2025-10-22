@@ -57,7 +57,11 @@ The dataset contains retail transaction data including:
 
 - Removed 604 rows with both Quantity and Total Spent missing as amounted to less than 5% of Dataset
  
+
+
+
 ## 📊 Dashboard Insights
+![Dashboard Preview](Dashboard/dashboard_screenshot.png)
 
 - Butcher: Highest earning category but trending down
 
