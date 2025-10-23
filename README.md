@@ -45,8 +45,11 @@ The dataset contains retail transaction data including:
 - Set proper data types and formatting  
 - Checked for duplicates  
 - Filled “Price per Unit” blanks using:
-  ```excel
-=[@TotalSpent]/[@Quantity]
+
+```excel
+=[TotalSpent]/[Quantity]
+```
+
 
 - When filtering for Category and Price all non blank Item cells have the Same Item name, therefore it can be assumed the blanks should have that same name
 - Used XLOOKUP to fill missing Item names:
