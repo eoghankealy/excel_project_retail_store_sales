@@ -47,7 +47,7 @@ The dataset contains retail transaction data including:
 - Filled “Price per Unit” blanks using:
 
 ```excel
-=[TotalSpent]/[Quantity]
+=[Total Spent]/[Quantity]
 ```
 
 
