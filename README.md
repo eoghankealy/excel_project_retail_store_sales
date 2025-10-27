@@ -51,7 +51,7 @@ The dataset contains retail transaction data including:
 ```
 
 
-- When filtering for Category and Price all non blank Item cells have the Same Item name, therefore it can be assumed the blanks should have that same name
+- When filtering for Category and Price all non blank Item cells have the same Item name, therefore it can be assumed the blanks should have that same name
 - Used XLOOKUP to fill missing Item names:
 
 ```
@@ -72,7 +72,7 @@ The dataset contains retail transaction data including:
 
 - In general the revenue is relatively equally  spread throughout the Categories,  Items and time periods. The  highest revenue category is  Butchers with €208,118,00 while the lowest revenue category Milk Products has €180,112, a  percetage difference  of 13.5%
 
-- Sales are also equally spread throughout the different payment options and whether the sale is online or instore. 
+- Sales are also equally spread throughout the different payment options and whether the sales are online or instore. 
 
 ## 💡 Key Takeaways
 
