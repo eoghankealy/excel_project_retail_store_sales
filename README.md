@@ -66,13 +66,13 @@ The dataset contains retail transaction data including:
 ## 📊 Dashboard Insights
 ![Dashboard Preview](Dashboard/dashboard_screenshot.png)
 
-- Butchers: Highest earning category but trending down
+- Butchers: Highest earning category but trending down. Qrt 1 2022 €20,999.50  Qrt 1 2024 €16,346.00. Yearly revenue down from €79,395.50 in 2022 to €66,067.50 in 2024, a drop of 16.78 %
 
-- Beverages: Growing steadily 
+- Beverages: Growing steadily  Qrt 1 2022 €16,734 Qrt 1 2024 €17,543. Yearly revenue up from €63,555 in 2022 to €74,205.50  an increase of 16.76%
 
-- In general the revenue is relatively equally  spread throughout the Categories,  Items and time periods
+- In general the revenue is relatively equally  spread throughout the Categories,  Items and time periods. The  highest revenue category is  Butchers with €208,118,00 while the lowest revenue category Milk Products has €180,112, a  percetage difference  of 13.5%
 
-- Sales are also equally spread throughout the different payment options and whether the sale is online or instore 
+- Sales are also equally spread throughout the different payment options and whether the sale is online or instore. 
 
 ## 💡 Key Takeaways
 
