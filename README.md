@@ -10,6 +10,11 @@ The aim was to practice real-world data cleaning, explore sales performance by p
 **Removed Records:** 604 (≈4.8%)
 
 ---
+## 🛠️ Tools & Skills
+- Microsoft Excel (Data Cleaning, PivotTables, Charts, Dashboard Design)
+- Data Validation & Consistency Checks
+- XLOOKUP, Conditional Formatting, Calculated Fields
+- Data Visualization & Business Insight Reporting
 
 ## 🧾 Dataset Description
 The dataset contains retail transaction data including:
@@ -69,32 +74,34 @@ The dataset contains retail transaction data including:
 ![Dashboard Preview](Dashboard/dashboard_screenshot.png)
 
 
-- In general the revenue is relatively equally  spread throughout the Categories,  Items and time periods. The  highest revenue category is  Butchers with €208,118,00 while the lowest revenue category Milk Products has €180,112, a  percetage difference  of 13.5%. Sales are also equally spread throughout the different payment options and whether the sales are online or instore. However digging a little deeper some key insights become apparent :
+- In general the revenue is relatively equally  spread throughout the Categories,  Items and time periods. The  highest revenue category is  **Butchers( €208,118.00)** while the lowest revenue category **Milk Products(€180,112.00)** a  difference  of 13.5%. Sales are also equally spread throughout the different payment options and whether the sales are online or instore. However, digging a little deeper, some key insights become apparent:
 
-#### Key Insights
+### Key Insights
+### 🥩 Butchers
+- Highest earning category but trending down
+- 📉 Revenue down **16.8%** (2022 vs 2024)
+- 3 of Top 5 customers reduced spending (up to **42%** drop)
 
-- Butchers: Highest earning category but trending down. Qrt 1 2022 €20,999.50  Qrt 1 2024 €16,346.00. Yearly revenue down from €79,395.50 in 2022 to €66,067.50 in 2024, a drop of 16.78 %
 
-- Butchers:  3 of the Top 5 customers for spending recorded a drop in spending comparing the years 2022 and 2024. Cust_17 had a very large 42.38% drop in spending while Cust_4 and Cust_10 had a drop of around 17%
+- Butchers:  4 of the bottom 5 customers for spending recorded drops in spending, ( up to **61.48%** drop)
 
-- Butchers:  4 of the bottom 5 customers for spending recorded drops in spending, with Cust_20 in particular having a drop of 61.48%
+### 🍽️ Food
+- 📈 Revenue up **15.6%** (2022 vs 2024)
 
-- Food: qrt 1 2020 € 13,833.50 qrt1 2024 €15,744.50. Yearly revenue up from €57,026.00 in 2022 to €65,914.50 in 2024,  an increase of 15.59%
+- Food: Strong growth across all of the top 5 customers for spending comparing the years 2022 and 2024.  2 Top customers increased spending > **80%** 
 
-- Food: Strong growth across all of the top 5 customers for spending comparing the years 2022 and 2024.  Cust_7 increased by 103.52%  and Cust_ 13 by 88.75%.
+🧁 **Patisserie**
+- 📈 Revenue up **16.76%** (2022 vs 2024)
 
-- Patisserie: 4 of the top 5 spenders recorded a drop in spending ranging from around 20% to 35%
+- Patisserie: 4 of the top 5 spenders recorded a drop in spending ranging from around **20% to 35%**
 
-- Beverages: Growing steadily  Qrt 1 2022 €16,734 Qrt 1 2024 €17,543. Yearly revenue up from €63,555 in 2022 to €74,205.50  an increase of 16.76%
  
 
-## 💡 Key Takeaways & Recomended Actions
+## 💡 Key Takeaways & Recommended Actions
 
- 🥩 **1. Butchers Category** – Declining Performance. 
-
-Revenue is trending down despite being the top earner.
-
-Actions: 
+### 🥩 Butchers – Declining Performance
+**Insight:** Revenue trending down despite being top earner.  
+**Actions:**
 
 - Re-engage top customers with personalized offers and loyalty rewards.
 
@@ -102,11 +109,11 @@ Actions:
 
 - Launch retention campaigns targeting high-value but declining customers.
 
-🍽️ **2. Food Category** – Sustained Growth
+### 🍽️ Food – Sustained Growth
 
-Strong performance and expanding customer spend base.  
+**Insight:** Strong performance and expanding customer spend base.  
 
-Actions:
+**Actions:**
 
 - Identify and replicate success factors (e.g., product mix, promotions).
 
@@ -114,11 +121,11 @@ Actions:
 
 - Build stronger partnerships with high-growth customers through incentives or exclusives.
 
-🧁 **3. Patisserie Category** – Customer Spend Decline
+### 🧁 Patisserie – Customer Spend Decline
 
-Losses concentrated among top customers suggest reduced engagement.
+**Insight:** Losses concentrated among top customers suggest reduced engagement.
 
-Actions:
+**Actions:**
 
 - Gather customer feedback to understand drop-off reasons.
 
@@ -126,14 +133,20 @@ Actions:
 
 - Implement retention campaigns targeting high-spend customers showing decline.
 
-☕ **4. Beverages Category** – Consistent Growth
+### ☕ Beverages – Consistent Growth
 
-Stable year-on-year growth and steady customer retention.  
+**Insight:** Stable year-on-year growth and steady customer retention.  
 
-Actions:
+**Actions:**
 
 - Maintain current strategy and marketing approach.
 
 - Explore upselling or bundling with complementary categories.
 
 - Slightly increase marketing investment to maximize steady growth momentum.
+
+## 🎯 Results & Learnings
+- Built an interactive Excel dashboard analyzing 12,000+ transactions
+- Identified customer-spending trends and category performance shifts
+- Strengthened data cleaning, analysis, and visualization skills in Excel
+- Enhanced ability to derive actionable business insights from raw data
