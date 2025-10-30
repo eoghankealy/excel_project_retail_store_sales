@@ -88,7 +88,7 @@ The dataset contains retail transaction data including:
 ### 🍽️ Food
 - 📈 Revenue up **15.6%** (2022 vs 2024)
 
-- Food: Strong growth across all of the top 5 customers for spending comparing the years 2022 and 2024.  2 Top customers increased spending > **80%** 
+- 💪 Strong growth across all of the top 5 customers for spending comparing the years 2022 and 2024.  2 Top customers increased spending > **80%** 
 
 ### 🥤 Beverages
 - 📈 Revenue increased steadily **+16.76%** (2022 vs 2024).
