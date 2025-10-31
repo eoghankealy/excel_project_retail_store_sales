@@ -1,8 +1,9 @@
 # 🧹 Retail Store Sales Data Cleaning & Excel Dashboard
 
 ## 📘 Overview
-This project focuses on cleaning and analyzing a messy retail sales dataset from Kaggle, transforming it into a structured, validated, and interactive Excel dashboard.  
-The aim was to practice real-world data cleaning, explore sales performance by product category, and develop a clear, data-driven visualization of retail trends.
+
+This project focuses on cleaning and analyzing a retail sales dataset (12,000+ transactions) from Kaggle, transforming messy data into a structured, validated, and interactive Excel dashboard.
+The goal was to practice real-world data cleaning and visualization while uncovering actionable insights into sales performance, customer spending behavior, and category-level trends using Excel tools such as PivotTables, XLOOKUP, and Conditional Formatting.
 
 **Dataset:** [Retail Store Sales (Dirty for Data Cleaning)](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)  
 **Tool Used:** Microsoft Excel (Mac)  
